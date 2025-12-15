@@ -1,0 +1,4 @@
+using terminal (power shell) to complete this step
+
+$ python run_calibration.py
+$ python run_pipeline_example.py
