@@ -22,7 +22,7 @@ traditional/
 ├─ run_pipeline_example.py
 ├─ test_food.jpg # Input test image (must be in this directory)
 └─ test_food_processed.jpg # Output image (generated after running pipeline)
-
+```
 ---
 
 ## Environment Requirements
@@ -32,3 +32,4 @@ traditional/
 ```bash
 python run_calibration.py
 python run_pipeline_example.py
+```
