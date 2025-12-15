@@ -1,0 +1,11 @@
+anaconda prompt:
+
+$conda create -n (name)
+
+$conda activate (name)
+
+$conda deactivate
+
+$conda env remove -n (name)
+
+$conda env list

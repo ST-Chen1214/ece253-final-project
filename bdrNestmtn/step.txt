@@ -1,0 +1,10 @@
+anaconda prompt:
+$conda activate bdrenv
+
+$D:
+
+$cd D:\ucsd\handouts\ECE-253(Digital-Image-Processing)\project\code\bdrNestmtn
+
+$python train_bdr.py
+
+$python run_bdr_and_calories.py
