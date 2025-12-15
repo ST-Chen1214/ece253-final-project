@@ -13,6 +13,7 @@ and to provide a baseline for comparison with learning-based methods.
 ## Directory Structure
 Please ensure the following structure is used for the traditional pipeline:
 
+```
 traditional/
 ├─ calib_images/ # Calibration images (e.g., checkerboard photos)
 ├─ camera_params.npz # Generated after calibration
